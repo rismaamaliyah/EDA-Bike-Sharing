@@ -6,7 +6,7 @@ from babel.numbers import format_currency
 sns.set(style='dark')
 
 # Load cleaned data
-df = pd.read_csv('all_data.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/rismaamaliyah/EDA-Bike-Sharing/main/dashboard/all_data.csv')
 df['Date'] = pd.to_datetime(df['Date'])
 
 # Title
