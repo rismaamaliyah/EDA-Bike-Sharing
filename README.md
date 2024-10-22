@@ -11,4 +11,4 @@ streamlit run dashboard.py
 ```
 
 ## Dashboard Access Link
-(Dashboard)[https://bike-sharing-rentals-dashboard.streamlit.app/]
+https://bike-sharing-rentals-dashboard.streamlit.app/
